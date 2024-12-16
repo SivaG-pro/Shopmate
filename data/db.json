@@ -1,0 +1,23 @@
+{
+    "products":[
+        {
+            "id": "00001",
+            "name": "Iphone 16 Pro",
+            "price": "699",
+            "availability":true
+
+        },
+        {
+            "id": "00002",
+            "name": "Samsung-Ultra",
+            "price": "650",
+            "availability":false
+        },
+        {
+            "id": "00003",
+            "name": "Macbook",
+            "price": "800",
+            "availability":true
+        }
+    ]
+}

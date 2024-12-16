@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+
+  .box{
+    margin: auto;
+    max-width: 500px;
+    padding: 10px;
+    height: 120px;
+    border-radius: 5px;
+    box-shadow: black 0px 1px 4px ;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.clear{
+  padding: 5px;
+  border-radius: 5px;
+  color: azure;
+  
+  cursor: pointer;
+}
+
+.instock{
+  background-color: green;
+}
+
+.unavailable{
+  background-color:firebrick;
+}
